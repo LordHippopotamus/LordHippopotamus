@@ -1,6 +1,3 @@
-
-
----
 ### About me
 
 Hi there! My name is Daniel :heart:</br>
@@ -21,5 +18,3 @@ I was born in Stavropol and now I live here</br>
 
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=&message=TELEGRAM&color=333333)](https://t.me/LordBehemoth)
 <a href="mailto:LordHippopotamus@yandex.ru">![Mail](https://img.shields.io/static/v1?style=for-the-badge&logo=mail.ru&logoColor=blue&label=&message=MAIL&color=333333)</a>
-
----
