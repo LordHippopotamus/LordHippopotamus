@@ -3,7 +3,7 @@
 Hi there! My name is Daniel</br>
 I am 17 years old</br>
 I was born in Stavropol and now I live here</br>
-Now I am learning state-managment libraies and components libraries for React and make projects with it!</br>
+Now I am learning JAM stack and make projects with it!</br>
 
 ---
 ### My skills
